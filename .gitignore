@@ -1,0 +1,6 @@
+target/
+config.properties
+.vscode/
+*.class
+*.log
+.idea/
